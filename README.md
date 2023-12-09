@@ -17,6 +17,7 @@ bun dev
 `npm run dev`
 
 
+```
 src
     app
         dashboard
@@ -28,3 +29,5 @@ src
         blog
     components
     utils
+
+```

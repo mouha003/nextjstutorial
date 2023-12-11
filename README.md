@@ -31,3 +31,14 @@ src
     utils
 
 ```
+
+### Next Js Rendering
+
+1. Server Side rendering - (SSR)
+
+    . By default all component render on the server
+
+2. Client Side rendering - (CSR)
+
+    . "use client"
+
